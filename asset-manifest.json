@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SearchBookingCare/static/css/main.60ed187a.css",
+    "main.js": "/SearchBookingCare/static/js/main.521f0a90.js",
+    "static/js/787.28cb0dcd.chunk.js": "/SearchBookingCare/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/SearchBookingCare/index.html",
+    "main.60ed187a.css.map": "/SearchBookingCare/static/css/main.60ed187a.css.map",
+    "main.521f0a90.js.map": "/SearchBookingCare/static/js/main.521f0a90.js.map",
+    "787.28cb0dcd.chunk.js.map": "/SearchBookingCare/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60ed187a.css",
+    "static/js/main.521f0a90.js"
+  ]
+}
